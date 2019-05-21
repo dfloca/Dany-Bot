@@ -224,7 +224,81 @@ var messages = [
 "The Warlocks.",
 "I owe you my life, Ser.",
 "You know this man?",
-"",
+"For who?",
+"Give me your water.",
+"Drink.",
+"The blood of my enemies, not the blood of innocents.",
+"Do you disagree, Ser Barristan?",
+"Did you know him well, Ser Barristan?",
+"I wish I had known him. But he was *not* the last dragon.",
+"They did not. I want to buy them all.",
+"Yes. Eight thousand. And the ones still in training as well.",
+"I will have them all, or take none. Many will fall in battle, I will need the boys to pick up the swords they drop.",
+"I have dragons. I'll give you one.",
+"One.",
+"Done.",
+"I'll take you as well. Now. You'll be Master Kraznys' gift to me; token of a bargain well struck.",
+"You're both here to advise me. I value your advice. But if you ever question me in front of strangers again, you'll be advising someone else. Is that understood?",
+"Do you have a name?",
+"Do you have a family? Mother and a father you'd return to if you had a choice?",
+"You belong to me now. It is your duty to tell the truth.",
+"I offered water to one of the slaves dying on the Walk of Punishment. Do you know what he said to me? 'Let me die'.",
+"Is it true what Master Kraznys told me about the Unsullied? About their obedience?",
+"And what about you? You know that I'm taking you to war. You may go hungry, you may fall sick, you may be killed...",
+"Yes. All men *must* die. But we are not men.",
+"Is it done, then? They belong to me?",
+"Dovaogēdys! Naejot memēbātās! Kelītīs!", //"Unsullied! Forward March! Halt!" 
+"Zaldrīzes buzdari iskos daor.", //"A dragon is not a slave."
+"Nyke Daenerys Jelmāzmo hen Targārio Lentrot, hen Valyrio Uēpo ānogār iksan. Valyrio muño ēngos ñuhys issa.", //"I am Daenerys Stormborn of the House Targaryen, of the blood of Old Valyria. Valyrian is my mother tongue."
+"Dovaogēdys! Āeksia ossēnātās, menti ossēnātās, qilōni pilos lue vale tolvie ossēnātās, yn riñe dōre ōdrikātās. Urnet luo buzdaro tolvio belma pryjātās!", //"Unsullied! Slay the masters, slay the soldiers, slay every man who holds a whip, but harm no child. Strike the chains off every slave you see!"
+"Dovaogēdys! Jevo glaesoti rȳ buzdari istiat. Kesy tubi jemot dāervi tepan.", //"You have been slaves all your life. Today I give you freedom."
+"Henujagon jaelza lua vala mirre henujagon kostas, se daorys ziry ōdrikilza. Jemot kivio ñuhe tepan.", //"Any man who wishes to leave may leave, and no one will harm him. I give you my word."
+"Yne sytivīlībilāt? Hae dāero valoti?", //"Will you fight for me? As free men?"
+"These are the ones?",
+"Keso glaesot iderēptot daor.", //"You did not choose this life."
+"Yn dāeri vali sīr issi. Se dāeri vali pōntalo syt gaomoti iderēbzi.", //"But you are free men now. And free men make their own choices."
+"Jenti jevi jemēle iderēbilātās, qogrondo jevo hēdrȳ.", //"You will select your own leader, from amongst your own ranks."
+"Geltī aōhe nādīnās.", //"Remove your helmet."
+"Skoroso jemēle brōzā?", //"What is your name?"
+"Torgo Nudho?", 
+"Hēzīr, brōza jevi jemēle iderēbilātās. Mentyri idañe jevi ivestrilātās keskydoso gaomagon.", //"From this day forward, you will choose your own names. You will tell all your fellow soldiers to do the same."
+"Gadbag aōhe qrīdrughās. Muñar aōt teptas lue brōzi, iā mirre tolie iderēbās. Avy hoskas lue brōzi.", //"Throw away your slave name. Choose the name your parents gave you, or any other. A name that gives you pride."
+"I don't want half my army killed before I've crossed the Narrow Sea.",
+"How many slaves are there in Yunkai?",
+"Then we have two hundred thousand reasons to take the city.",
+"Va oktio remȳti vale jikās.", //"Send a man to the city gates."
+"Belmurtī ivestrās kesīr pōnte jiōrinna se pōjon obūljarion mazōrīnna. Lodaor hēnkos vējose hae Astaprot Yunkai botilza.", //"Tell the slavers I will receive them here and accept their surrender. Otherwise, Yunkai will suffer the same fate as Astapor."
+"You may approach. Sit.",
+"Good. My Unsullied need practice. I was told to blood them early.",
+"My ship?",
+"And what do you ask in return?",
+"I have a gift for you as well. Your life.",
+"And the lives of your Wise Masters, but I also want something in return. You will release every slave in Yunkai. Every man, woman, and child shall be given as much food, clothing, and property as they can carry as payment for their years of servitude. Reject this gift, and I shall show you no mercy.",
+"I did. But my dragons made no promises, and you threatened their mother.",
+"My gold. You gave it to me, remember? And I'll put it to good use. You'd be wise to do the same with my gift to you. Now get out.",
+"What happens to things that don't bend? He said he had powerful friends. Who's he talking about?",
+"Find out",
+"You know these men?",
+"Is he more titan or bastard?",
+"How many?",
+"Enough to make a difference?",
+"It's hard to collect wages from a corpse. I'm sure the sellswords would prefer to fight for the winning side?",
+"Let's talk to the Titan's Bastard about winning.",
+"He will. A man who fights for gold can't afford to lose to a girl.",
+"Give me your Second Songs and I may not have you gelded",
+"Ser Barristan, how many men fight for the Second Sons?",
+"We have more, don't we?",
+"I'm only a young girl new to the ways of war, but perhaps a seasoned Captain like yourself can explain to me how you propose to defeat us.",
+"You're very young to be a Captain.",
+"Even if your numbers are right, you must admit the odds don't favor your side.",
+"Or you could fight for me.",
+"I would pay you as much, and more.",
+"Ride with me and you'll never need another contract. You'll have gold and castles of your choosing when I take back the Seven Kingdoms.",
+"A fortnight ago, I had no army. A year ago I had no dragons. You have two days to decide.",
+"Bisi vali īlvyz zentyssy issi.", //"These men are our guests."
+"You seem to be enjoying my wine. Perhaps you'd like a flagon to help you ponder.",
+"A barrel, then.",
+"Ser Barristan, if this comes to battle, kill that one first.",
 ];
 
 client.on('ready', () => {
