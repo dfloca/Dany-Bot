@@ -536,7 +536,103 @@ var messages = [
 "How far did you go?",
 "Drogon! We need to return! My people need me!",
 "Well there's no food. At the very you could hunt us some supper.",
-""
+"*grunts*",
+"Vo frakho anna vosecchi.", //"Do not touch me."
+"Anha Daenerys Vazyol h’Okreseroon Targeryen, Atak ma Hakesoon Mae, Osavvirsak, Khaleesi Mirini, Khaleesi m’Andahli ma Roynari m’Ataki, Khaleesi Havazhofi Hranni, ma Haggey-Assamvak ma Mai Zhavorsi.", //"I am Daenerys Stormborn of the House Targaryen, the First of Her Name, the Unburnt, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men, Khaleesi of the Great Grass Sea, Breaker of Chains and Mother of Dragons."
+"Anha vos ochilok ma shafkoa vosecchi. M’anha vo vayyok vo yal che ha shafkea che h’eshnakaan. Avvos vosma shekh yola she jimma ma drivoe she titha.", //"I will not lie with you. And I will bear no children, for you or anyone else. Not until the sun rises in the west and sets in the east."
+"Anha chiorikemoon ha Khalaan Drogo ki Bharbosi.", //"I was wife to Khal Drogo, son of Khal Bharbo."
+"Anha nesak. Anha avvirsa khadokh moon.", //"I know. I burnt his body."
+"Hash shafka vidrisofi anna Mirinaan, hash anha vammelisok mekhalasar shafki nem vazha dalen hrazef k’azhi anhoon.", //"If you will escort me back to Meereen, I will see that your khalasar is given a thousand horses as a sign of my gratitude."
+"Fin yeri ti?! Eqorasas anna! Anha afichak anhaan nharees yeroa! Anha Mai Zhavorsi! Rizh anni Vezhoon Fin Saja Rhaesheseres! Anha chiorikem Khali Drogo! Zhey ivezho!", //"What are you doing?! Take your hands off me! I will have your heads! I am the Mother of Dragons! My son was the Stallion Who Mounts the World! I am wife of Khal Drogo! You beasts!"
+"Yeri ray esh osoon. Ki jini yeri akhezhi. Anha chiorikem Khali Vezhvena.", //"You have made a mistake. One you will regret. I am the wife of the Great Khal."
+"Hajinaan m’anha Deneris Vazyol, Haggey-Assamvak, Khaleesi Mirini ma Mai Zhavorsi. Vaes anni vos jinne ma shafkoa.", //"Because I am Daenerys Stormborn, the Breaker of Chains, the Queen of Meereen and the Mother of Dragons. My place is not here with you."
+"Finnaan anha vek? Ei khaleesi Doshaan Khaleen.", //"Where else would I go? Every khaleesi becomes Dosh Khaleen."
+"Hazi ale khadosoon.", //"That is more than most have."
+"Ma Khalar Vezhven silokh sh’ajjalan? Anha zigerek athnavaroon.", //"And the Khalar Vezhven is tomorrow night? (off the Priestess’ nod) I need to make water."
+"Anha vos ochoqak Dothrakoa vosecchi.", //"I will never run from Dothraki."
+"Anha zigere yash chosha.", //"I needed fresh air."
+"Yesisi vachrari.", //"The old women stink."
+"Mori’th samvenosh kash Khal yeri drivo, jin firesof yeri.", //"You must have been very young when your Khal died."
+"Me ohazha memé vo drivo k’athaqisinari.", //"Too bad he didn’t die sooner."
+"Mori ti kijinosi sekosshi. Hash me vallayafa yera tihat mora hezhahhe?", //"They do. Would you like to see them one day?"
+"No! Don't hurt her!",
+"We will never get out of Vaes Dothrak alive.",
+"We can do more than that, and you're going to help me.",
+"Ma yer… Qothas k’anni, zhey khaleesi. Vos yer nem holos anhoon.", //"And you… Have faith in me, khaleesi. Do not betray me."
+"Hash yeri vo zali nesat rek dirgak anha?", //"Don’t you want to know what I think?"
+"Vos, anha vo zalok vos at rek osoon.", //"No, I don’t want either of those things."
+"Anha nesak rekke anha kovarak. Anha ray dothra jinne hatif ajjin. Hazze, she haz sorfo, anha adakh zhores vezhoon. Ma Dosh Khaleen hake yal anni Vezh Fin Saja Rhaesheseres.", //"I know where I am. I have been here before. Right there, on that spot, I ate a stallion’s heart. And the Dosh Khaleen pronounced my child the Stallion Who Mounts the World."
+"Jinne zhey Drogo ast asqoy vidrie khalasares mae jim, finnaan nakhoe rhaesheser. Dothralat hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.", //"This is where Drogo promised to take his khalasar west to where the world ends. To ride wooden horses across the black salt sea as no khal has done before."
+"Me ast asqoy addrivat mahrazhis fini ondee khogar shiqethi ma ohharat okrenegwin mori. Me ast asqoy anhaan. Hatif Maisi Krazaaji, kash shieraki vitihir asavvasoon.", //"He promised to kill the men in their iron suits and tear down their stone houses. He swore it to me. Before the Mother of Mountains, as the stars looked down in witness."
+"Ma jinne, ajjin, fin vaese zhokwa jerie Khali Vezhveni? Fin vaesish vemrasoe yeri, finsanney nayat vil ahilee yeri, finsanney hrazef aqaffi yeri k’azhi.", //"And here, now, what great matters do the Great Khals discuss? Which little villages you’ll raid, how many girls you’ll get to fuck, how many horses you’ll demand in tribute."
+"Yeri mahrazhi zhikwi. Torga yeri, Dothraki yanqosoraan zhikwi. Vos at yeroa venoe idrilat mora vosecchi.", //"You are small men. Under you, the Dothraki will be a small people. None of you is fit to lead them."
+"Vosma anha venok. Majin anha vidrik.", //"But I am. So I will."
+"Yeri vos osili vosecchi. Yeri vadrivoe.", //"You’re not going to serve. You’re going to die."
+"I banished you. Twice. You came back. Twice. And you saved my life. So I can't take you back, and I can't send you away.",
+"Is there a cure?",
+"How long does it take?",
+"I'm sorry. I'm so sorry.",
+"Do not walk away from your Queen, Jorah the Andal. You have not been dismissed.",
+"You pledged yourself to me. You swore to obey my commands for the rest of your life. Well I command you to find the cure. Wherever it is in this world. I command you to heal yourself, and then return to me.",
+"When I take the Seven Kingdoms, I need you by my side.",
+"How many day's ride to Meereen?",
+"How many ships will I need to bring my Khalasar to Westeros?",
+"And who has that many?",
+"Nobody yet.",
+"I take what is mine.",
+"What was I made for?",
+"Wait here.",
+"Ei khal fin thir nakhaan okke sen dothrakhqoy aloji qisi mae m’avijazeri athdinar mae. Vosma anha vos khal.", //"Every khal who ever lived chose three bloodriders to fight beside him and guard his way. But I am not a khal."
+"Anha vo vokkak sen dothrakhqoy. Anha okkak ei yeri.", //"I will not choose three bloodriders. I choose you all."
+"Anha qafak asqoy yeroa, majin yeri m’athiri m’adrivoe ven qoy qoyi, m’adothrae anni m’avijezeri anna athzhowakaroon.", //"I ask your oath, that you will live and die as blood of my blood, riding at my side to keep me safe from harm."
+"Anha aqafak san ale yeroa ei Khaloon ray qaf khalasaroon mae!", //"I will ask more of you than any Khal has ever asked of his khalasar!"
+"Hash yeri adothrae hrazef ido yomme Havazzhifi Kazga?", //"Will you ride the wooden horses across the black salt sea?"
+"Hash yeri vaddrivi dozge anni ma khogaroon shiqethi mori majin vohhari okrenegwin mori?", //"Will you kill my enemies in their iron suits and tear down their stone houses?"
+"Hash yeri vazhi anhaan Rhaeshis Andahli, jin azho me-Khal Drogo ast asqoy mehas hatif Maisi Krazaaji kash shieraki vitihir asavvasoon?", //"Will you give me the Seven Kingdoms, the gift Khal Drogo promised me before the Mother of Mountains as the stars looked down in witness?"
+"Hash yeri m’anhoon, ma jinne m’ayyeyaan?!", //"Are you with me, now and always?!"
+"The city's on the rise?",
+"Good. Shall we begin?",
+"I will crucify the Masters. I will set their fleets afire. Kill every last one of their soldiers and return their cities to the dirt. That is my plan. You don't approve?",
+"This is entirely different.",
+"We obviously didn't communicate clearly. We are here to discuss your surrender, not mine.",
+"My reign has just begun.",
+"You brought us a hundred ships from the Iron Fleet, with men to sail them. In return, I expect you'll want me to support your claim to the Iron Islands?",
+"What's wrong with you?",
+"Has the Iron Islands ever had a Queen before?",
+"Lord Tyrion tells me your father was a terrible King.",
+"We do, and both murdered by a usurper as well.",
+"Will their ships be enough?",
+"So why shouldn't I wait for him",
+"And I imagine your offer is free to any marriage demands?",
+"And you don't want the Seven Kingdoms?",
+"And that's all?",
+"Reasonable.",
+"She's not demanding, she's asking. The others are free to ask as well.",
+"Our fathers were evil men, all of us. They left the world worse than they found it. We're not going to do that. We're going to leave the world better than we found it.",
+"You will support my claim as Queen of the Seven Kingdoms. And respect the integrity of the Seven Kingdoms. No more reaving, or raving, or raiding, or raping.",
+"No more.",
+"You're not coming with us.",
+"You're not going to Westeros. You're staying here with the Second Sons. There's finally peace in Meereen. You will keep the peace while the people choose their own leaders.",
+"You promised me. 'My sword is yours. My life is yours.'. This is what I command.",
+"If I'm going to rule in Westeros, I'll need to make alliances. The best way to make alliances is with marriage.",
+"I don't know. Maybe no one.",
+"I can't bring a lover to Westeros.",
+"So that's what you want? To be my mistress?",
+"I can't.", //rip Daario's heart
+"No one tells me to do anything.",
+"Don't get angry.",
+"A great number of women, I imagine.",
+"Specific orders will be left for you regarding the welfare of Meereen and the Bay of Dragons.",
+"We can't call it 'Slaver's Bay' anymore.",
+"Farewell, Daario Naharis.",
+"No tears.",
+"It's not.",
+"Yes, you really are.",
+"Do you know what frightens me? I said farewell to a man who loves me. A man I thought I cared for. And I felt nothing, just impatient to get on with it.",
+"Well. You have completely failed to console me.",
+"It's your counsel, I need.",
+"Good. I, umm.. I had something made for you. I'm- I'm not sure if it's right.",
+"Tyrion Lannister, I name you Hand of the Queen."
 ];
 
 client.on('ready', () => {
