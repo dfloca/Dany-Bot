@@ -324,7 +324,7 @@ var messages = [
 "How are the lessons coming?",
 "You'll have to continue later. It's time.",
 "What are they saying?", 
-"Dāervose jevosy yne enkot daor. Jemot ziry tepagon koston daor. Dāerves jevys tepagon yne sytilībos daor. Jemēle mērī sytilības. Lo ziry arlī jaelāt, jemēlo syt ziry mazemagon jemo bēvilza. Tolvies jemys.", /
+"Dāervose jevosy yne enkot daor. Jemot ziry tepagon koston daor. Dāerves jevys tepagon yne sytilībos daor. Jemēle mērī sytilības. Lo ziry arlī jaelāt, jemēlo syt ziry mazemagon jemo bēvilza. Tolvies jemys.", 
 "Ser Barristan.",
 "Where's Daario Naharis? Where's Grey Worm?",
 "Gambling?",
