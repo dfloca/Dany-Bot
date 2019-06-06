@@ -344,7 +344,7 @@ var messages = [
 "Are they attacking?",
 "What is he doing?",
 "I have something to say to the people of Meereen. First I will need this one to be quiet. Do I have a champion?",
-"You are Captain of the Unsullied. I cannot risk you" 
+"You are Captain of the Unsullied. I cannot risk you",
 "Which is why you must remain by my side.",
 "You're my most trusted advisor, my most valued general, and my dearest friend. I will not gamble with your life.",
 "Very well. You have quite an audience. Make it worth their while.",
