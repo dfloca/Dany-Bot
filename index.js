@@ -586,7 +586,7 @@ var messages = [
 "Anha aqafak san ale yeroa ei Khaloon ray qaf khalasaroon mae!", 
 "Hash yeri adothrae hrazef ido yomme Havazzhifi Kazga?", 
 "Hash yeri vaddrivi dozge anni ma khogaroon shiqethi mori majin vohhari okrenegwin mori?", 
-"Hash yeri vazhi anhaan Rhaeshis Andahli, jin azho me-Khal Drogo ast asqoy mehas hatif Maisi Krazaaji kash shieraki vitihir asavvasoon?", /
+"Hash yeri vazhi anhaan Rhaeshis Andahli, jin azho me-Khal Drogo ast asqoy mehas hatif Maisi Krazaaji kash shieraki vitihir asavvasoon?", 
 "Hash yeri m’anhoon, ma jinne m’ayyeyaan?!", 
 "The city's on the rise?",
 "Good. Shall we begin?",
