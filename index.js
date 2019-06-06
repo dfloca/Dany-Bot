@@ -26,7 +26,7 @@ var messages = [
 "*shakes head*",
 "I... I don't think that this is the Dothraki way..",
 "No!",
-"Ajjalan anha zalat vitiherat yer hatif", //"Tonight I would look upon your face.",
+"Ajjalan anha zalat vitiherat yer hatif", 
 "Do the Dothraki buy their slaves?",
 "From who?",
 "Tell them all to stop.",
@@ -38,8 +38,8 @@ var messages = [
 "Ath jahakar..",
 "Athjahakar",
 "Ooh... W-what are you doing?",
-"Me rakh", //"It's a boy.",
-"Anha sekke nesa.", //"I know."
+"Me rakh", 
+"Anha sekke nesa.", 
 "Hush now, it's alright. Irri, take her and leave us.",
 "Why did you hit her?",
 "I wasn't commanding you! I just wanted to invite you to supper!",
@@ -48,18 +48,18 @@ var messages = [
 "Stop.",
 "You've no right to a braid, you've won no victories yet.",
 "I am a Khaleesi of the Dothraki! I am the wife of the great Khal and I carry his son inside me! The next time you raise a hand to me, will be the last time you have hands.",
-"Khalakka dothrae mr'anha", //"A prince rides inside me."
-"Ma me nem ahakee ma Rhaego!", //"And he shall be called Rhaego.
+"Khalakka dothrae mr'anha",
+"Ma me nem ahakee ma Rhaego!", 
 "Viserys, please!",
 "He says yes. You shall have a golden crown, that men shall tremble to behold.",
 "No.",
 "He was no dragon. Fire cannot kill a dragon.",
-"K'asi assikhqoyisiri vezh adothrae nakhaan rhaesheseri", //"According to the prophecy the stallion will ride to the ends of the world."
-"Sorfosor nakho vosecchi. Sani sorfi vekha yomme. Sorfo athyolari anni.", //"The Earth never ends. There are many dirts. The dirts of my birth."
-"Rhaeshi, sek.", //"Lands, yes"
-"Dalen rhaggat eveth ma ale: ido fini ovethi yomme.", //"There are thousands of ships. Wooden that fly across the sea."
-"Me vos ador. Me...me...throne.", //"It's not a chair. It's...it's...throne."
-"Ador finaan khal nevasoe...che khaleesi.", //"A chair for a king to sit upon...or a queen."
+"K'asi assikhqoyisiri vezh adothrae nakhaan rhaesheseri", 
+"Sorfosor nakho vosecchi. Sani sorfi vekha yomme. Sorfo athyolari anni.", 
+"Rhaeshi, sek.", 
+"Dalen rhaggat eveth ma ale: ido fini ovethi yomme.", 
+"Me vos ador. Me...me...throne.", 
+"Ador finaan khal nevasoe...che khaleesi.", 
 "Can't you help me make him understand?",
 "My brother.. was a fool, I know, but he was the rightful heir to the Seven Kingdoms.",
 "Have I said something funny, Ser?",
@@ -73,16 +73,16 @@ var messages = [
 "Something wrong?",
 "Do as he says.",
 "You will drink.",
-"Ti mae k'asi, che Khal Drogo anesa valzerikh.", //"Do as I command or Khal Drogo will know the reason why."
-"Mago asta k'athjilari, zhey shekh ma shieraki anni. Anha ray qoraso san ohari asshekh majin mori nem vos osaji.", //"Mago speaks the truth, my sun and stars. I have claimed many daughters this day so they cannot be mounted."
-"Anha nem allayafak vassandik mora. Hash dothraki shafki'th saji mora hash mori jif kemoe ma moroa.", //"It pleases me to keep them safe. If your riders would mount them, let them take them as wives."
-"Zhavvorsa vadakhera ma hrazef ma vaf akkate. ", //"The dragon feeds on horse and lamb alike. "
-"Anha Khaleesi. Anha assok yera sekosshi.", //"I am Khaleesi. I do command you."
-"Shekh ma shieraki anni zisa.", //"My sun and stars is hurt."
-"Finne koalaki?", //"Where are the healers."
+"Ti mae k'asi, che Khal Drogo anesa valzerikh.", 
+"Mago asta k'athjilari, zhey shekh ma shieraki anni. Anha ray qoraso san ohari asshekh majin mori nem vos osaji.", 
+"Anha nem allayafak vassandik mora. Hash dothraki shafki'th saji mora hash mori jif kemoe ma moroa.", 
+"Zhavvorsa vadakhera ma hrazef ma vaf akkate. ", 
+"Anha Khaleesi. Anha assok yera sekosshi.", 
+"Shekh ma shieraki anni zisa.", 
+"Finne koalaki?",
 "Who are you?",
-"Me anni. Me vastoe.", //She's mine. Let her speak."
-"Azhas maan affisat zis yeri, shekh ma shieraki anni. Me azzisa anna jin tihat meyer qiyae.", //"Let her clean your wound my sun and stars. It makes me hurt to see you bleed."
+"Me anni. Me vastoe.", 
+"Azhas maan affisat zis yeri, shekh ma shieraki anni. Me azzisa anna jin tihat meyer qiyae.",
 "Save him, and I will free you I swear it.",
 "You must know a way! Some... some magic..",
 "Do it. Save him.",
@@ -95,8 +95,8 @@ var messages = [
 "No one will enter.",
 "Bring him back to me.",
 "I have to save him...",
-"Jini vee", //This must be."
-"Vos! Yer laz vos", //"No, you can't."
+"Jini vee",
+"Vos! Yer laz vos", 
 "The baby... is coming!",
 "*moans*",
 "Where is Khal Drogo?",
@@ -108,11 +108,11 @@ var messages = [
 "This is not God's work! My child was innocent!",
 "I spoke for you! I *saved* you!",
 "Your life.",
-"Shekh ma shieraki anni!", //"My sun and stars."
-"Hash yer vineseri dothrakh ataki kishi, zhey shekh ma shieraki anni?", //"Do you remember our first ride, my sun and stars?"
-"Hash yer laz chari anna; hash yer ray vos o, attihas anna.", //"If you are still in there, if you haven't gone away, show me."
-"Yer lajak. Yer ayyeyoon lajakoon. Anha zigerek yeroon lajat ajjin.", //"You're a fighter. You've always been a fighter. I need you to fight now."
-"Affin shekh yola she jimma ma drivoe she titha...Arrek yer ajadi save, shekh ma shieraki anni.", //"I know you're very far away. but come back to me, my sun and stars."
+"Shekh ma shieraki anni!", 
+"Hash yer vineseri dothrakh ataki kishi, zhey shekh ma shieraki anni?", 
+"Hash yer laz chari anna; hash yer ray vos o, attihas anna.", 
+"Yer lajak. Yer ayyeyoon lajakoon. Anha zigerek yeroon lajat ajjin.", 
+"Affin shekh yola she jimma ma drivoe she titha...Arrek yer ajadi save, shekh ma shieraki anni.", 
 "They were not given to me to sell.",
 "I must. You don't understand.",
 "Is that what you fear?",
@@ -132,19 +132,19 @@ var messages = [
 "And you're sure there's no other way.",
 "No one will take my dragons.",
 "As you are mine.",
-"Zhey qoy qoyi!", //"Blood of my blood"
-"Zhey Rakharo, zhey Aggo, zhey Kovarro. Fichi hrazef zinayi kishi.", //"Rakaro, Aggo, Kovarro. Take our remaining horses."
-"Ma yer adothrae tith; ma yer heshtith; ma yer valshtith.", //"You ride east; you southeast; and you northeast."
-"Vaes, che thiri che drivi. Ma verakasaris ma voji. Che ashefaes che tozaraes che Havazzhife Zhokwa. Ezo athchilar Athasaroon Virzetha hatif kishi, ma reki vekha yomme moon.", //"Cities, living or dead. Caravans and people. Rivers, or lakes, or the Great Salt Sea. Find how far the Red Waste extends before us, and what lies on the other side."
-"Rakharo. Yer athzalar nakhoki anni, zhey qoy qoyi.", //"Rakharo. You are my last hope, blood of my blood."
+"Zhey qoy qoyi!", 
+"Zhey Rakharo, zhey Aggo, zhey Kovarro. Fichi hrazef zinayi kishi.", 
+"Ma yer adothrae tith; ma yer heshtith; ma yer valshtith.", 
+"Vaes, che thiri che drivi. Ma verakasaris ma voji. Che ashefaes che tozaraes che Havazzhife Zhokwa. Ezo athchilar Athasaroon Virzetha hatif kishi, ma reki vekha yomme moon.", 
+"Rakharo. Yer athzalar nakhoki anni, zhey qoy qoyi.",
 "Blood of my blood...",
 "Who did this?",
 "They will like it far less when I am done with them.",
-"Affa, affa. Mori laz vos atthi oakah vosecchi.", //"Shh… They cannot kill his soul."
-"Affa. Kisha amariki vorsqoy ha maan. Majin anha astak yeraan asqoy, me-Rakharo adothrae kimi mae ajjalan.", //"Shh. We will build him a funeral pyre. And I promise you, Rakharo will ride with his ancestors tonight."
-"Jin vos sajo yeri.", //"This is not your horse."
-"Zhey Qarth?", //"Qarth?"
-"Hash mori vazhi kishaan emralat?", //"Will they let us in?"
+"Affa, affa. Mori laz vos atthi oakah vosecchi.", 
+"Affa. Kisha amariki vorsqoy ha maan. Majin anha astak yeraan asqoy, me-Rakharo adothrae kimi mae ajjalan.", 
+"Jin vos sajo yeri.", 
+"Zhey Qarth?", 
+"Hash mori vazhi kishaan emralat?", 
 "What do you know of this place?",
 "I thought we were welcome here.",
 "Horde?",
@@ -163,9 +163,9 @@ var messages = [
 "It sounds wonderful.",
 "Please excuse me for a moment",
 "What are they doing?",
-"Kisha nevaki mae! Yer laz vos vefenari mae, vos tavi mae, vos ivvisi mae.", //"We are his guests! You can not pry it, nor chop it, nor melt it."
-"Kash athezar kishi vos akka.", //"During our departure, not even."
-"Hash idrik kishi vijazero kisha Athasaroon Virzetha hash yer zali zifichelat moon? Anha acharak vos alikh.", //"Our host saved us from the Red Waste and you want to steal from him? I will hear no more."
+"Kisha nevaki mae! Yer laz vos vefenari mae, vos tavi mae, vos ivvisi mae.", 
+"Kash athezar kishi vos akka.", 
+"Hash idrik kishi vijazero kisha Athasaroon Virzetha hash yer zali zifichelat moon? Anha acharak vos alikh.", 
 "My brother used to say the only thing the Dothraki know how to do is steal the things better men have built.",
 "That's not the kind of Queen I'm going to be.",
 "What is the House of the Undying?",
@@ -203,12 +203,12 @@ var messages = [
 "Then serve me. If my dragons are in the House of the Undying, then take me there.",
 "And what of my magic? You saw me step into the fire, you watched the witch burn! What did the flames do to me? Do you remember?",
 "They are my children. And they are the only children I will ever have. Take me to them.",
-"Azhi morea kis tat.", //"Let them try."
-"Jini athmovezar qoyi ven athmovezar fini fich yera anhoon—fini fich yera anhoon hatif…", //"This is dark magic, like the magic that took you from me. Took you from before I could even…"
-"Ishish anha drivak vosma anha ray nesok mae vos. Ishish anha ma yeroon she Rhaeshi Ajjalani.", //"Maybe I am dead and I just don’t know it yet. Maybe I am with you in the Night Lands."
-"Jini vena tikh meyer jif ti.", //"That sounds like something that you would do."
+"Azhi morea kis tat.", 
+"Jini athmovezar qoyi ven athmovezar fini fich yera anhoon—fini fich yera anhoon hatif…", 
+"Ishish anha drivak vosma anha ray nesok mae vos. Ishish anha ma yeroon she Rhaeshi Ajjalani.", 
+"Jini vena tikh meyer jif ti.",
 "This is not my home. My home is across the sea where my people are waiting for me.",
-"Dracarys.", //"Dragonfire"
+"Dracarys.",
 "Not fast enough. I can't wait that long.",
 "I need an army.",
 "The greatest *slave* soldiers in the world. The distinction means a great deal to some people.",
@@ -247,27 +247,27 @@ var messages = [
 "And what about you? You know that I'm taking you to war. You may go hungry, you may fall sick, you may be killed...",
 "Yes. All men *must* die. But we are not men.",
 "Is it done, then? They belong to me?",
-"Dovaogēdys! Naejot memēbātās! Kelītīs!", //"Unsullied! Forward March! Halt!" 
-"Zaldrīzes buzdari iskos daor.", //"A dragon is not a slave."
-"Nyke Daenerys Jelmāzmo hen Targārio Lentrot, hen Valyrio Uēpo ānogār iksan. Valyrio muño ēngos ñuhys issa.", //"I am Daenerys Stormborn of the House Targaryen, of the blood of Old Valyria. Valyrian is my mother tongue."
-"Dovaogēdys! Āeksia ossēnātās, menti ossēnātās, qilōni pilos lue vale tolvie ossēnātās, yn riñe dōre ōdrikātās. Urnet luo buzdaro tolvio belma pryjātās!", //"Unsullied! Slay the masters, slay the soldiers, slay every man who holds a whip, but harm no child. Strike the chains off every slave you see!"
-"Dovaogēdys! Jevo glaesoti rȳ buzdari istiat. Kesy tubi jemot dāervi tepan.", //"You have been slaves all your life. Today I give you freedom."
-"Henujagon jaelza lua vala mirre henujagon kostas, se daorys ziry ōdrikilza. Jemot kivio ñuhe tepan.", //"Any man who wishes to leave may leave, and no one will harm him. I give you my word."
-"Yne sytivīlībilāt? Hae dāero valoti?", //"Will you fight for me? As free men?"
+"Dovaogēdys! Naejot memēbātās! Kelītīs!", 
+"Zaldrīzes buzdari iskos daor.", 
+"Nyke Daenerys Jelmāzmo hen Targārio Lentrot, hen Valyrio Uēpo ānogār iksan. Valyrio muño ēngos ñuhys issa.",
+"Dovaogēdys! Āeksia ossēnātās, menti ossēnātās, qilōni pilos lue vale tolvie ossēnātās, yn riñe dōre ōdrikātās. Urnet luo buzdaro tolvio belma pryjātās!", 
+"Dovaogēdys! Jevo glaesoti rȳ buzdari istiat. Kesy tubi jemot dāervi tepan.", 
+"Henujagon jaelza lua vala mirre henujagon kostas, se daorys ziry ōdrikilza. Jemot kivio ñuhe tepan.",
+"Yne sytivīlībilāt? Hae dāero valoti?", 
 "These are the ones?",
-"Keso glaesot iderēptot daor.", //"You did not choose this life."
-"Yn dāeri vali sīr issi. Se dāeri vali pōntalo syt gaomoti iderēbzi.", //"But you are free men now. And free men make their own choices."
-"Jenti jevi jemēle iderēbilātās, qogrondo jevo hēdrȳ.", //"You will select your own leader, from amongst your own ranks."
-"Geltī aōhe nādīnās.", //"Remove your helmet."
-"Skoroso jemēle brōzā?", //"What is your name?"
+"Keso glaesot iderēptot daor.", 
+"Yn dāeri vali sīr issi. Se dāeri vali pōntalo syt gaomoti iderēbzi.",
+"Jenti jevi jemēle iderēbilātās, qogrondo jevo hēdrȳ.", 
+"Geltī aōhe nādīnās.",
+"Skoroso jemēle brōzā?", 
 "Torgo Nudho?", 
-"Hēzīr, brōza jevi jemēle iderēbilātās. Mentyri idañe jevi ivestrilātās keskydoso gaomagon.", //"From this day forward, you will choose your own names. You will tell all your fellow soldiers to do the same."
-"Gadbag aōhe qrīdrughās. Muñar aōt teptas lue brōzi, iā mirre tolie iderēbās. Avy hoskas lue brōzi.", //"Throw away your slave name. Choose the name your parents gave you, or any other. A name that gives you pride."
+"Hēzīr, brōza jevi jemēle iderēbilātās. Mentyri idañe jevi ivestrilātās keskydoso gaomagon.", 
+"Gadbag aōhe qrīdrughās. Muñar aōt teptas lue brōzi, iā mirre tolie iderēbās. Avy hoskas lue brōzi.", 
 "I don't want half my army killed before I've crossed the Narrow Sea.",
 "How many slaves are there in Yunkai?",
 "Then we have two hundred thousand reasons to take the city.",
-"Va oktio remȳti vale jikās.", //"Send a man to the city gates."
-"Belmurtī ivestrās kesīr pōnte jiōrinna se pōjon obūljarion mazōrīnna. Lodaor hēnkos vējose hae Astaprot Yunkai botilza.", //"Tell the slavers I will receive them here and accept their surrender. Otherwise, Yunkai will suffer the same fate as Astapor."
+"Va oktio remȳti vale jikās.", 
+"Belmurtī ivestrās kesīr pōnte jiōrinna se pōjon obūljarion mazōrīnna. Lodaor hēnkos vējose hae Astaprot Yunkai botilza.", 
 "You may approach. Sit.",
 "Good. My Unsullied need practice. I was told to blood them early.",
 "My ship?",
@@ -295,14 +295,14 @@ var messages = [
 "I would pay you as much, and more.",
 "Ride with me and you'll never need another contract. You'll have gold and castles of your choosing when I take back the Seven Kingdoms.",
 "A fortnight ago, I had no army. A year ago I had no dragons. You have two days to decide.",
-"Bisi vali īlvyz zentyssy issi.", //"These men are our guests."
+"Bisi vali īlvyz zentyssy issi.", 
 "You seem to be enjoying my wine. Perhaps you'd like a flagon to help you ponder.",
 "A barrel, then.",
 "Ser Barristan, if this comes to battle, kill that one first.",
 "Nineteen?!",
 "How can anyone speak nineteen languages?",
 "Yes, well, it was either learn Dothraki or grunt at my husband... What do you mean *reasonably* well?",
-"Zhey Drogo ast me-Dothraki thasho h’anhaan ven anha ray yol mehas. Me azh maan atjakhar.", //"Drogo said I spoke Dothraki like one born to it. It gave him great pride."
+"Zhey Drogo ast me-Dothraki thasho h’anhaan ven anha ray yol mehas. Me azh maan atjakhar.", 
 "Well, I suppose I'm a bit out of practice...",
 "What do you want?",
 "Let her go.",
@@ -316,15 +316,15 @@ var messages = [
 "Will you fight for me?",
 "Swear to me.",
 "Where?",
-"Jentys Dovaogēdyro syt iksā. Skoros otāpā?" //"You command the Unsullied. What do you think?"
+"Jentys Dovaogēdyro syt iksā. Skoros otāpā?"
 "You leave tonight.",
 "We've been waiting a long time. Haven't we?",
 "I don't know, you tell me. How long does it take to sack a city?",
-"And Daario Naharis?", //Jorah's heart breaks at this moment.
+"And Daario Naharis?", 
 "How are the lessons coming?",
 "You'll have to continue later. It's time.",
-"What are they saying?", //Some lines missing here from the freeing of Yunkai (end of S3)
-"Dāervose jevosy yne enkot daor. Jemot ziry tepagon koston daor. Dāerves jevys tepagon yne sytilībos daor. Jemēle mērī sytilības. Lo ziry arlī jaelāt, jemēlo syt ziry mazemagon jemo bēvilza. Tolvies jemys.", //"You do not owe me your freedom. I cannot give it to you. Your freedom is not mine to give. It belongs to you and you alone. If you want it back, you must take it for yourselves. Each and every one of you."
+"What are they saying?", 
+"Dāervose jevosy yne enkot daor. Jemot ziry tepagon koston daor. Dāerves jevys tepagon yne sytilībos daor. Jemēle mērī sytilības. Lo ziry arlī jaelāt, jemēlo syt ziry mazemagon jemo bēvilza. Tolvies jemys.", /
 "Ser Barristan.",
 "Where's Daario Naharis? Where's Grey Worm?",
 "Gambling?",
@@ -344,17 +344,17 @@ var messages = [
 "Are they attacking?",
 "What is he doing?",
 "I have something to say to the people of Meereen. First I will need this one to be quiet. Do I have a champion?",
-"You are Captain of the Unsullied. I cannot risk you" //This is meant to be in HV
+"You are Captain of the Unsullied. I cannot risk you" 
 "Which is why you must remain by my side.",
 "You're my most trusted advisor, my most valued general, and my dearest friend. I will not gamble with your life.",
 "Very well. You have quite an audience. Make it worth their while.",
 "Yes. Win or lose. As long as the whole city's watching.",
 "You sure you don't want a horse?",
 "Horses are faster than men.",
-"Daenerys Jelmāzmo iksan. Kostilus jevi āeksia yno bē pirtra jemot vestretis, iā daoruni jemot vestretis. Daoriot jemas. Doriar udra pōnto syt eman. Mērī jemī ivestran. ", //"I am Daenerys Stormborn. Your masters may have told you lies about me, or they may have told you nothing. It does not matter. I have nothing to say to them. I speak only to you."
-"Ēlī Astaprot istan. Astaprot dohaertrossa sīr yno inkot iōrzi, dāeri. Hembar Yunkaihot istan. Yunkaihī dohaertrossa sīr yno inkot iōrzi, dāeri. Sesīr Mirinot mastan. ", //"First, I went to Astapor. Those who were slaves in Astapor now stand behind me, free. Next I went to Yunkai. Those who were slaves in Yunkai now stand behind me, free. Now I have come to Meereen."
-"Jevys qrinuntys ikson daor. Jevys qrinuntys jemo paktot issa. Jevys qrinuntys jevor riñar laodissis ossēnīs. Jevys qrinuntys jemo syt mērī belma se boteri se udrāzmī ēzi. Udrāzmī jemot maghon daor. Iderennon maghan. Se jevo qrinuntoti pōjor gūrotriri maghan. Naejot! ", //"I am not your enemy. Your enemy is beside you. Your enemy steals and murders your children. Your enemy has nothing for you but chains and suffering and commands. I do not bring you commands. I bring you a choice. And I bring your enemies what they deserve. Forward!"
-"Nābēmātās! ", //"Fire (unfasten)!"
+"Daenerys Jelmāzmo iksan. Kostilus jevi āeksia yno bē pirtra jemot vestretis, iā daoruni jemot vestretis. Daoriot jemas. Doriar udra pōnto syt eman. Mērī jemī ivestran. ", 
+"Ēlī Astaprot istan. Astaprot dohaertrossa sīr yno inkot iōrzi, dāeri. Hembar Yunkaihot istan. Yunkaihī dohaertrossa sīr yno inkot iōrzi, dāeri. Sesīr Mirinot mastan. ", 
+"Jevys qrinuntys ikson daor. Jevys qrinuntys jemo paktot issa. Jevys qrinuntys jevor riñar laodissis ossēnīs. Jevys qrinuntys jemo syt mērī belma se boteri se udrāzmī ēzi. Udrāzmī jemot maghon daor. Iderennon maghan. Se jevo qrinuntoti pōjor gūrotriri maghan. Naejot! ", 
+"Nābēmātās! ", 
 "Remind me, Ser Jorah. How many children did the Great Masters nail to mileposts?",
 "Yes, that was it.",
 "I will answer injustice with justice.",
@@ -371,11 +371,11 @@ var messages = [
 "I need to be more than that.",
 "I will not let those I have freed slide back into chains. I will not sail for Westeros.",
 "I will do what Queens do. I will rule.",
-"Zūgagon daor, ñuhys raqiros. Skoros ynot epilū?", //"Don’t be afraid, my friend. What would you ask of me?"
+"Zūgagon daor, ñuhys raqiros. Skoros ynot epilū?", 
 "I thank him for his prayers.",
 "Tell this man I am sorry for his hardship. I cannot bring back his goats. But I will see that he is paid their value, *three* times over.",
 "Send the next one in.",
-"The noble Hizdahr zo Loraq can speak to me himself.", //should be HV
+"The noble Hizdahr zo Loraq can speak to me himself.", 
 "I thank you.",
 "Then it is my honor to receive you.",
 "For that he has my gratitude! I should be honored to meet him.",
@@ -429,7 +429,6 @@ var messages = [
 "Go. Now.",
 "Stay with me.",
 "Never betray me.",
-//TODO: S4E10 missing
 "Good.",
 "Concessions?",
 "I'm not a politician. I'm a Queen.",
@@ -456,14 +455,14 @@ var messages = [
 "I'm not my father.",
 "I will not have the Son of the Harpy executed without a fair trial.",
 "Why?",
-"He was our prisoner, awaiting trial. You had no right." , //Should be HV
-"There are no more slaves. There are no more Masters.", //Should be HV
-"The Harpy's life was not yours to take.", //Should be HV
-"Once, the Masters were the law-", //Should be HV
-"The law is the law.", //Should be HV (Vitri vitri issa?)
-"Take him.", //Should be HV
-"You opened your gates to me because I promised you freedom and justice. One cannot exist without the other.", //Should be HV
-"A citizen of Meereen was awaiting trial when this man killed him. The punishment is death.", //Should be HV
+"He was our prisoner, awaiting trial. You had no right." ,
+"There are no more slaves. There are no more Masters.", 
+"The Harpy's life was not yours to take.", 
+"Once, the Masters were the law-", 
+"The law is the law.", 
+"Take him.", 
+"You opened your gates to me because I promised you freedom and justice. One cannot exist without the other.",
+"A citizen of Meereen was awaiting trial when this man killed him. The punishment is death.", 
 "Leave me.",
 "Drogon!",
 "Everyone looks happy enough from up here.",
@@ -483,11 +482,11 @@ var messages = [
 "I do not recognize this tradition.",
 "'Barristan the Bold', they called him. He crossed a continent to serve me. He was a loyal friend. And he died in an alley, butchered by cowards who fight behind masks.",
 "I prefer your earlier suggestion: round up the leaders of each Great Family and bring them to me.",
-"Move forward.", //Should be HV
-"Another step.",  //Should be HV (Daeri drivi?)
-"They will eat you if I tell them to. They may eat you even if I don't.",  //Should be HV
-"Children. Some say I should give up on them. But a good mother never gives up on her children. She disciplines them if she must. But she does not give up on them.",  //Should be HV
-"Who is innocent? Maybe all of you are, maybe none of you are. Maybe, I should let the dragons decide.",  //Should be HV
+"Move forward.", 
+"Another step.", 
+"They will eat you if I tell them to. They may eat you even if I don't.", 
+"Children. Some say I should give up on them. But a good mother never gives up on her children. She disciplines them if she must. But she does not give up on them.",  
+"Who is innocent? Maybe all of you are, maybe none of you are. Maybe, I should let the dragons decide.",  
 "Don't want to overfeed them.", 
 "Tomorrow, perhaps.",
 "You will not speak.",
@@ -529,7 +528,7 @@ var messages = [
 "The common people.",
 "Lannister, Targaryen, Baratheon, Stark, Tyrell. They're all just spokes in a wheel. This one's on top, then that one's on top, and on and on it spins, crushing those on the ground.",
 "I'm not going to stop the wheel. I'm going to break the wheel.",
-"Valahd.", //"Fly."
+"Valahd.", 
 "We have to go home.",
 "Ohh, you poor, sweet thing. Does it hurt? We have to go home.",
 "Drogon? Can you take me back to Meereen?",
@@ -537,37 +536,36 @@ var messages = [
 "Drogon! We need to return! My people need me!",
 "Well there's no food. At the very you could hunt us some supper.",
 "*grunts*",
-"Vo frakho anna vosecchi.", //"Do not touch me."
-"Anha Daenerys Vazyol h’Okreseroon Targeryen, Atak ma Hakesoon Mae, Osavvirsak, Khaleesi Mirini, Khaleesi m’Andahli ma Roynari m’Ataki, Khaleesi Havazhofi Hranni, ma Haggey-Assamvak ma Mai Zhavorsi.", //"I am Daenerys Stormborn of the House Targaryen, the First of Her Name, the Unburnt, Queen of Meereen, Queen of the Andals and the Rhoynar and the First Men, Khaleesi of the Great Grass Sea, Breaker of Chains and Mother of Dragons."
-"Anha vos ochilok ma shafkoa vosecchi. M’anha vo vayyok vo yal che ha shafkea che h’eshnakaan. Avvos vosma shekh yola she jimma ma drivoe she titha.", //"I will not lie with you. And I will bear no children, for you or anyone else. Not until the sun rises in the west and sets in the east."
-"Anha chiorikemoon ha Khalaan Drogo ki Bharbosi.", //"I was wife to Khal Drogo, son of Khal Bharbo."
-"Anha nesak. Anha avvirsa khadokh moon.", //"I know. I burnt his body."
-"Hash shafka vidrisofi anna Mirinaan, hash anha vammelisok mekhalasar shafki nem vazha dalen hrazef k’azhi anhoon.", //"If you will escort me back to Meereen, I will see that your khalasar is given a thousand horses as a sign of my gratitude."
-"Fin yeri ti?! Eqorasas anna! Anha afichak anhaan nharees yeroa! Anha Mai Zhavorsi! Rizh anni Vezhoon Fin Saja Rhaesheseres! Anha chiorikem Khali Drogo! Zhey ivezho!", //"What are you doing?! Take your hands off me! I will have your heads! I am the Mother of Dragons! My son was the Stallion Who Mounts the World! I am wife of Khal Drogo! You beasts!"
-"Yeri ray esh osoon. Ki jini yeri akhezhi. Anha chiorikem Khali Vezhvena.", //"You have made a mistake. One you will regret. I am the wife of the Great Khal."
-"Hajinaan m’anha Deneris Vazyol, Haggey-Assamvak, Khaleesi Mirini ma Mai Zhavorsi. Vaes anni vos jinne ma shafkoa.", //"Because I am Daenerys Stormborn, the Breaker of Chains, the Queen of Meereen and the Mother of Dragons. My place is not here with you."
-"Finnaan anha vek? Ei khaleesi Doshaan Khaleen.", //"Where else would I go? Every khaleesi becomes Dosh Khaleen."
-"Hazi ale khadosoon.", //"That is more than most have."
-"Ma Khalar Vezhven silokh sh’ajjalan? Anha zigerek athnavaroon.", //"And the Khalar Vezhven is tomorrow night? (off the Priestess’ nod) I need to make water."
-"Anha vos ochoqak Dothrakoa vosecchi.", //"I will never run from Dothraki."
-"Anha zigere yash chosha.", //"I needed fresh air."
-"Yesisi vachrari.", //"The old women stink."
-"Mori’th samvenosh kash Khal yeri drivo, jin firesof yeri.", //"You must have been very young when your Khal died."
-"Me ohazha memé vo drivo k’athaqisinari.", //"Too bad he didn’t die sooner."
-"Mori ti kijinosi sekosshi. Hash me vallayafa yera tihat mora hezhahhe?", //"They do. Would you like to see them one day?"
+"Vo frakho anna vosecchi.",
+"Anha Daenerys Vazyol h’Okreseroon Targeryen, Atak ma Hakesoon Mae, Osavvirsak, Khaleesi Mirini, Khaleesi m’Andahli ma Roynari m’Ataki, Khaleesi Havazhofi Hranni, ma Haggey-Assamvak ma Mai Zhavorsi.", 
+"Anha vos ochilok ma shafkoa vosecchi. M’anha vo vayyok vo yal che ha shafkea che h’eshnakaan. Avvos vosma shekh yola she jimma ma drivoe she titha.", 
+"Anha chiorikemoon ha Khalaan Drogo ki Bharbosi.", 
+"Anha nesak. Anha avvirsa khadokh moon.", 
+"Hash shafka vidrisofi anna Mirinaan, hash anha vammelisok mekhalasar shafki nem vazha dalen hrazef k’azhi anhoon.", 
+"Fin yeri ti?! Eqorasas anna! Anha afichak anhaan nharees yeroa! Anha Mai Zhavorsi! Rizh anni Vezhoon Fin Saja Rhaesheseres! Anha chiorikem Khali Drogo! Zhey ivezho!", 
+"Yeri ray esh osoon. Ki jini yeri akhezhi. Anha chiorikem Khali Vezhvena.",
+"Hajinaan m’anha Deneris Vazyol, Haggey-Assamvak, Khaleesi Mirini ma Mai Zhavorsi. Vaes anni vos jinne ma shafkoa.", 
+"Hazi ale khadosoon.", 
+"Ma Khalar Vezhven silokh sh’ajjalan? Anha zigerek athnavaroon.", 
+"Anha vos ochoqak Dothrakoa vosecchi.",
+"Anha zigere yash chosha.", 
+"Yesisi vachrari.", 
+"Mori’th samvenosh kash Khal yeri drivo, jin firesof yeri.",
+"Me ohazha memé vo drivo k’athaqisinari.",
+"Mori ti kijinosi sekosshi. Hash me vallayafa yera tihat mora hezhahhe?", 
 "No! Don't hurt her!",
 "We will never get out of Vaes Dothrak alive.",
 "We can do more than that, and you're going to help me.",
-"Ma yer… Qothas k’anni, zhey khaleesi. Vos yer nem holos anhoon.", //"And you… Have faith in me, khaleesi. Do not betray me."
-"Hash yeri vo zali nesat rek dirgak anha?", //"Don’t you want to know what I think?"
-"Vos, anha vo zalok vos at rek osoon.", //"No, I don’t want either of those things."
-"Anha nesak rekke anha kovarak. Anha ray dothra jinne hatif ajjin. Hazze, she haz sorfo, anha adakh zhores vezhoon. Ma Dosh Khaleen hake yal anni Vezh Fin Saja Rhaesheseres.", //"I know where I am. I have been here before. Right there, on that spot, I ate a stallion’s heart. And the Dosh Khaleen pronounced my child the Stallion Who Mounts the World."
-"Jinne zhey Drogo ast asqoy vidrie khalasares mae jim, finnaan nakhoe rhaesheser. Dothralat hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.", //"This is where Drogo promised to take his khalasar west to where the world ends. To ride wooden horses across the black salt sea as no khal has done before."
-"Me ast asqoy addrivat mahrazhis fini ondee khogar shiqethi ma ohharat okrenegwin mori. Me ast asqoy anhaan. Hatif Maisi Krazaaji, kash shieraki vitihir asavvasoon.", //"He promised to kill the men in their iron suits and tear down their stone houses. He swore it to me. Before the Mother of Mountains, as the stars looked down in witness."
-"Ma jinne, ajjin, fin vaese zhokwa jerie Khali Vezhveni? Fin vaesish vemrasoe yeri, finsanney nayat vil ahilee yeri, finsanney hrazef aqaffi yeri k’azhi.", //"And here, now, what great matters do the Great Khals discuss? Which little villages you’ll raid, how many girls you’ll get to fuck, how many horses you’ll demand in tribute."
-"Yeri mahrazhi zhikwi. Torga yeri, Dothraki yanqosoraan zhikwi. Vos at yeroa venoe idrilat mora vosecchi.", //"You are small men. Under you, the Dothraki will be a small people. None of you is fit to lead them."
-"Vosma anha venok. Majin anha vidrik.", //"But I am. So I will."
-"Yeri vos osili vosecchi. Yeri vadrivoe.", //"You’re not going to serve. You’re going to die."
+"Ma yer… Qothas k’anni, zhey khaleesi. Vos yer nem holos anhoon.", 
+"Hash yeri vo zali nesat rek dirgak anha?",
+"Vos, anha vo zalok vos at rek osoon.", 
+"Anha nesak rekke anha kovarak. Anha ray dothra jinne hatif ajjin. Hazze, she haz sorfo, anha adakh zhores vezhoon. Ma Dosh Khaleen hake yal anni Vezh Fin Saja Rhaesheseres.", 
+"Jinne zhey Drogo ast asqoy vidrie khalasares mae jim, finnaan nakhoe rhaesheser. Dothralat hrazef ido yomme Havazzhifi Kazga ven et vo khal avvos.", 
+"Me ast asqoy addrivat mahrazhis fini ondee khogar shiqethi ma ohharat okrenegwin mori. Me ast asqoy anhaan. Hatif Maisi Krazaaji, kash shieraki vitihir asavvasoon.", 
+"Ma jinne, ajjin, fin vaese zhokwa jerie Khali Vezhveni? Fin vaesish vemrasoe yeri, finsanney nayat vil ahilee yeri, finsanney hrazef aqaffi yeri k’azhi.", 
+"Yeri mahrazhi zhikwi. Torga yeri, Dothraki yanqosoraan zhikwi. Vos at yeroa venoe idrilat mora vosecchi.", 
+"Vosma anha venok. Majin anha vidrik.", 
+"Yeri vos osili vosecchi. Yeri vadrivoe.", 
 "I banished you. Twice. You came back. Twice. And you saved my life. So I can't take you back, and I can't send you away.",
 "Is there a cure?",
 "How long does it take?",
@@ -582,14 +580,14 @@ var messages = [
 "I take what is mine.",
 "What was I made for?",
 "Wait here.",
-"Ei khal fin thir nakhaan okke sen dothrakhqoy aloji qisi mae m’avijazeri athdinar mae. Vosma anha vos khal.", //"Every khal who ever lived chose three bloodriders to fight beside him and guard his way. But I am not a khal."
-"Anha vo vokkak sen dothrakhqoy. Anha okkak ei yeri.", //"I will not choose three bloodriders. I choose you all."
-"Anha qafak asqoy yeroa, majin yeri m’athiri m’adrivoe ven qoy qoyi, m’adothrae anni m’avijezeri anna athzhowakaroon.", //"I ask your oath, that you will live and die as blood of my blood, riding at my side to keep me safe from harm."
-"Anha aqafak san ale yeroa ei Khaloon ray qaf khalasaroon mae!", //"I will ask more of you than any Khal has ever asked of his khalasar!"
-"Hash yeri adothrae hrazef ido yomme Havazzhifi Kazga?", //"Will you ride the wooden horses across the black salt sea?"
-"Hash yeri vaddrivi dozge anni ma khogaroon shiqethi mori majin vohhari okrenegwin mori?", //"Will you kill my enemies in their iron suits and tear down their stone houses?"
-"Hash yeri vazhi anhaan Rhaeshis Andahli, jin azho me-Khal Drogo ast asqoy mehas hatif Maisi Krazaaji kash shieraki vitihir asavvasoon?", //"Will you give me the Seven Kingdoms, the gift Khal Drogo promised me before the Mother of Mountains as the stars looked down in witness?"
-"Hash yeri m’anhoon, ma jinne m’ayyeyaan?!", //"Are you with me, now and always?!"
+"Ei khal fin thir nakhaan okke sen dothrakhqoy aloji qisi mae m’avijazeri athdinar mae. Vosma anha vos khal.", 
+"Anha vo vokkak sen dothrakhqoy. Anha okkak ei yeri.",
+"Anha qafak asqoy yeroa, majin yeri m’athiri m’adrivoe ven qoy qoyi, m’adothrae anni m’avijezeri anna athzhowakaroon.", 
+"Anha aqafak san ale yeroa ei Khaloon ray qaf khalasaroon mae!", 
+"Hash yeri adothrae hrazef ido yomme Havazzhifi Kazga?", 
+"Hash yeri vaddrivi dozge anni ma khogaroon shiqethi mori majin vohhari okrenegwin mori?", 
+"Hash yeri vazhi anhaan Rhaeshis Andahli, jin azho me-Khal Drogo ast asqoy mehas hatif Maisi Krazaaji kash shieraki vitihir asavvasoon?", /
+"Hash yeri m’anhoon, ma jinne m’ayyeyaan?!", 
 "The city's on the rise?",
 "Good. Shall we begin?",
 "I will crucify the Masters. I will set their fleets afire. Kill every last one of their soldiers and return their cities to the dirt. That is my plan. You don't approve?",
@@ -618,7 +616,7 @@ var messages = [
 "I don't know. Maybe no one.",
 "I can't bring a lover to Westeros.",
 "So that's what you want? To be my mistress?",
-"I can't.", //rip Daario's heart
+"I can't.", 
 "No one tells me to do anything.",
 "Don't get angry.",
 "A great number of women, I imagine.",
