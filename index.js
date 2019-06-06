@@ -316,7 +316,7 @@ var messages = [
 "Will you fight for me?",
 "Swear to me.",
 "Where?",
-"Jentys Dovaogēdyro syt iksā. Skoros otāpā?"
+"Jentys Dovaogēdyro syt iksā. Skoros otāpā?",
 "You leave tonight.",
 "We've been waiting a long time. Haven't we?",
 "I don't know, you tell me. How long does it take to sack a city?",
